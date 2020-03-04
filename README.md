@@ -1,3 +1,3 @@
 # Flutter-Destini
 
-![](SimulatorScreenShot.png)
+![](SimulatorScreenShot.gif)
